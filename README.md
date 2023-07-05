@@ -5,3 +5,14 @@ Foodies is a new app focus on people that really likes to eat good food and have
 Foodies is a app for *people* that really likes to eat good food and have good experiences. At Foodie, the user will be able to share photos and a comment about the *dishes* that he/she had tasted. The user will be able to tag the *restaurant* in the post, so people can find everypost that is related to the restaurant.
 
 <img src="src/basicMap.png"/>
+
+## Foodies concept map
+
+<img src="src/conceptMap.png"/>
+
+## Foodies logic map
+
+<img src="src/logicMap.png"/>
+
+
+
